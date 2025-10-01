@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Halaman Profil Purbalingga</title>
+	</head>
+
+	<body>
+		<h1><b>kota Purbalingga</h1></b>
+
+		<h2><b>lokasi dan geografi</h2></b>
+		<p>
+		kota purbalingga terletak di provinsi Jawa Tengah Indonesia. 
+		Secara geografis, purbalingga berada di dataran tinggi,dikelilingi
+		oleh pegunungan, seperti gunung slamet yang merupakan gunung tertinggi 
+		di jawa tengah. dengan ketinggian sekitar 500-1.200 meter diatas
+		permukaan laut, kota iini memiliki iklim sejuk dan Udara yang segar.
+		</p>
+
+		<h2><b>sejarah</h2></b>
+		<p>
+		purbalingga memiliki sejarah yang kaya dan beragam. sebagai salah satu
+		daerah di jawa tengah, purbalingga mengalami berbagai pengaruh budaya
+		dan politik sepanjang sejarahnya, mulai dari masa kerajaan hingga masa
+		kemerdekaan Indonesia. purbalingga juga dikenal sebagai daerah yang
+		memiliki banyak situs bersejarah, seperti candi sanggaluri dan
+		peninggalan-peninggalan dari masa Hindu-Buddha.
+		</p>
+		
+		<h2><b>ekonomi</h2></b>
+		<p>
+		ekonomi purbalingga didominasi oleh sector pertanian, dengan komoditas
+		unggulan seperti beras, sayuran, dan buah-buahan. selain itu, industry
+		kecil dan menengah, seperti kerajinan tangan dan makanan, juga berperan 
+		penting dalam perekonomian local. purbalingga dikenal dengan produk
+		khasnya, yaitu "keripik singkong" dan "tempe mendoan."
+		</p>
+
+		<h2><b>budaya</h2></b>
+		<p>
+		budaya purbalingga sangat kaya, dengan berbagai tradisi dan kesenian
+		local yang masih dilestarikan. di antaranya adalah kesenian wayang
+		kulit, tari-tarian daerah, dan berbagai festival budaya yang diadakan
+		setiap tahun. salah satu festival yang terkenal adalah festival 
+		purbalingga yang menampilkan berbagai atraksi seni dan budaya.
+		</p>
+
+		<h2><b>wisata</h2></b>
+		purbalingga menawarkan berbagai destinasi wisata alam yang menarik.
+		beberapa tempat yang popular antara lain:
+		</p>
+
+		<ul>
+		<li>gunung slamet</li>
+		<p>
+		sebagai gunung tertinggi di jawa tengah, gunung slamet menjadi tujuan
+		bagi para pendaki dan pecinta alam.
+		</p>
+		<li>kampung batik</li>
+		<p>
+		pengunjung dapat belajar tentang proses pembuatan batik dan membeli 
+		produk local.
+		</p>
+		<li>wisata air terjun</li>
+		<p>
+		seperti air terjun tumpeng dan air terjun bidadari, yang menawarkan
+		keindahan alam yang memukau.
+		</p>
+		<li>wisata budaya</li>
+		<p>
+		pengunjung dapat menikmati berbagai pertunjukan seni dan budaya local.
+		</p>
+		</ul>
+	</body>
+</html>
+		
